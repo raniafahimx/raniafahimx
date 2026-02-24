@@ -1,24 +1,91 @@
-# 💫 About Me:
-I'm an Artificial Intelligence major and implementer at Bahria University Karachi Campus<br>I'm working at Elevvo Pathways as an Machine Learning Engineer Intern<br>I have worked as a WordPress developer at GAO Tek. USA<br>Skills: <br>Predictive Modeling<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Data Engineering<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Natural Language Processing (NLP)<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Human Machine Interface<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Statistical Modeling<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Python (Programming Language)<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Machine Learning<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Deep Learning<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Scikit-Learn<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>NumPy<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>CSS3<br><br><br>HTML5<br><br><br>User Interface Design<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Figma<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>TypeScript<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>E-Commerce<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>PHP<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>WordPress<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Front-End Development<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>React.js<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Web Development<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Web Design<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Web Services<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Web Applications<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Responsive Web Design<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>B2B Marketing Strategy<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Creative Writing<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Technical Writing<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Writing<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Bahria University<br><br><br>Editing<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Bahria University<br><br><br>Computer Science<br><br><br>Bahria University<br><br><br>English<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Bahria University<br><br><br>Analytical Skills<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Bahria University<br><br><br>Microsoft Excel<br><br><br>Bahria University<br><br><br>Spreadsheets<br><br><br>Bahria University<br><br><br>Databases<br><br><br>Bahria University<br><br><br>C++<br><br><br>Bahria University<br><br><br>C (Programming Language)<br><br><br>Java<br><br><br>Bahria University<br><br><br>Software Development<br><br><br>Bahria University<br><br><br>JavaScript<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>HTML<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Creative Problem Solving<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Cascading Style Sheets (CSS)<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Artificial Intelligence (AI)<br><br><br>Web Development Intern at GAOTek Inc.<br><br><br>Bahria University<br><br><br>Artificial Neural Networks<br><br><br>Machine Learning Engineer at Elevvo Pathways<br><br><br>Bahria University<br><br><br>Team Management<br><br><br>WordPress Developer & Assistant Squad Leader - ASL at GAOTek Inc.<br><br><br>Bahria University<br><br><br>AI<br><br><br>Bahria University<br><br><br>Computer Hardware<br><br><br>Software Installation<br><br><br>Microsoft Office<br><br><br>Bahria University<br><br><br>Computer Networking<br><br><br>Search Engine Optimization (SEO)<br><br><br>2 experiences at GAOTek Inc. and 1 other company<br><br><br>Bahria University<br><br><br>Web Content<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Web Content Writing<br><br><br>2 experiences at GAOTek Inc. and 1 other company<br><br><br>Research Skills<br><br><br>Web Content Writer and Creator at Fiverr<br><br><br>Online Marketing<br><br><br>Web Content Writer and Creator at Fiverr<br>
+<h1 align="center">Hi, I'm Rania 👋</h1>
 
+<p align="center">
+  <b>AI Solutions Developer · Front End Engineer · ML Engineer</b><br>
+  📍 Karachi, Pakistan · 🎓 BS Artificial Intelligence @ Bahria University
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rania •) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raniafahimx@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raniafahimx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raniafahimx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raniafahimx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raniafahimx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raniafahimx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rania-375007352">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:raniafahimx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raniafahimx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+I craft digital experiences **and** intelligent systems.
+From leading 60+ interns as a WordPress developer to building 
+ML-powered recommendation engines — I combine strong frontend 
+skills with growing AI/ML expertise.
+
+- 🔭 Currently working on: **Movie Recommendation System** using Collaborative Filtering & SVD (MovieLens 100K)
+- 🤝 Looking to collaborate on: AI/ML projects & intelligent web applications
+- 🌱 Currently learning: Machine Learning, Recommendation Systems, NLP
+- 💬 Ask me about: React.js, WordPress, Python, AI Integration, Collaborative Filtering
+- ⚡ Fun fact: I went from managing 60+ interns as a WordPress developer to building ML-powered recommendation engines!
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Frontend & Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎬 CineAI — Movie Recommendation System
+> ML-powered recommendation engine on MovieLens 100K dataset
+
+- Built **User-Based & Item-Based Collaborative Filtering** from scratch
+- Implemented **SVD Matrix Factorization** for latent factor modeling  
+- Developed interactive **Streamlit** web app with Plotly visualizations
+- Evaluated with **Precision@K** metric across all three algorithms
+- **Tech:** Python · Pandas · NumPy · Scikit-learn · SciPy · Streamlit · Plotly
+
+---
+
+### 💼 Experience
+
+🤖 **Machine Learning Engineer** @ Elevvo Pathways *(Feb 2026 – Present)*
+
+🏗️ **WordPress Developer & Assistant Squad Leader** @ GAOTek Inc. *(Aug – Oct 2025)*
+- Led & mentored a virtual team of **60+ interns**
+- Reduced page load time by **40%** (4.5s → 2.7s)
+- Decreased bounce rate by **25%**, increased time-on-site by **15%**
+
+✍️ **Web Content Writer** @ Fiverr *(2022 – 2025)*
+
+---
+
+### 📊 GitHub Stats
+
+![Rania's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+  <i>Open to AI/ML internships and junior developer opportunities</i>
+</p>
