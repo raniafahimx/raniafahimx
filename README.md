@@ -25,7 +25,7 @@
 
 ```python
 rania = {
-    "currently_working_on"  : "CineAI — Movie Recommendation System (MovieLens 100K)",
+    "currently_working_on"  : "Machine Learning & Artificial Intelligence Applications",
     "looking_to_collaborate": "AI/ML projects & intelligent web applications",
     "looking_for_help_with" : "Deep Learning & Neural Networks",
     "currently_learning"    : ["Machine Learning", "Recommendation Systems", "NLP"],
@@ -92,6 +92,24 @@ rania = {
 
 ## 🚀 Featured Projects
 
+### 🌲 ForestMind — Forest Cover Intelligence Classification
+> Full-stack ML project classifying 7 forest cover types across Roosevelt National Forest, Colorado — trained on 581,012 terrain cells, wrapped in a custom interactive web app
+
+| | |
+|---|---|
+| **Dataset** | 581,012 observations · 54 features · 4 wilderness areas |
+| **Models** | Random Forest (85.0% accuracy) · Gradient Boosting (82.8%) |
+| **Key Insight** | Elevation alone drives 26% of predictions — each species lives in its own altitude band |
+| **Challenge** | Aspen: 93% precision but only 24% recall — class imbalance in action |
+| **Interface** | Custom HTML/CSS/JS web app — confusion matrix explorer, feature importance bars, live terrain predictor |
+| **Tech** | Python · Pandas · Scikit-learn · NumPy · Chart.js · HTML/CSS/JS |
+
+<a href="https://github.com/raniafahimx/forest-cover-classification">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ### 🎬 CineAI — Movie Recommendation System
 > ML-powered recommendation engine built on the MovieLens 100K dataset with an interactive Streamlit web app
 
@@ -122,8 +140,6 @@ rania = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
